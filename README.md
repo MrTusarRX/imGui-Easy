@@ -28,8 +28,7 @@ This project integrates **ImGui (Dear ImGui)** with Android applications using J
 1. Clone this repository:
    ```bash
    git clone https://github.com/MrTusarRX/imGui-Easy.git
-  bash```
-**
+
 
 
 
@@ -79,9 +78,9 @@ extern "C" void Java_com_example_modmenu_MainActivity_DrawMenu(JNIEnv *env, jobj
     RenderMenu(); 
 
     ImGui::Render();
-}```
+}
 
-
+---------------------------------------------------------------------------------------------------
 📜 Disclaimer
 
 🔹 This project is for educational and debugging purposes only.
