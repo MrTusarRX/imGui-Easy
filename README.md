@@ -86,10 +86,15 @@ extern "C" void Java_com_example_modmenu_MainActivity_DrawMenu(JNIEnv *env, jobj
 📜 Disclaimer
 
 🔹 This project is for educational and debugging purposes only.
+
 🔹 We do not promote cheating, piracy, or illegal activities.
+
 🔹 Users are responsible for how they use this code.
 
 
+
 📬 Contact
+
    Developer: [MrTusarRX](https://github.com/MrTusarRX)
+   
    GitHub: [MrTusarRX](https://github.com/MrTusarRX)
