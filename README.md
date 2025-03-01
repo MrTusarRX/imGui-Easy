@@ -28,11 +28,7 @@ This project integrates **ImGui (Dear ImGui)** with Android applications using J
 1. Clone this repository:
    ```bash
    git clone https://github.com/MrTusarRX/imGui-Easy.git
-
-
-
-
-
+   
 -----------------------------------------------------------------------------------------------------------
    1. Set up your Android project in Android Studio.
    2. Include ImGui and OpenGL dependencies.
@@ -80,6 +76,13 @@ extern "C" void Java_com_example_modmenu_MainActivity_DrawMenu(JNIEnv *env, jobj
     ImGui::Render();
 }
 
+
+
+
+
+
+
+
 ---------------------------------------------------------------------------------------------------
 📜 Disclaimer
 
@@ -90,10 +93,3 @@ extern "C" void Java_com_example_modmenu_MainActivity_DrawMenu(JNIEnv *env, jobj
 
 Developer: MrTusarRX
 GitHub: MrTusarRX
-
-
-
-
-
-
-
