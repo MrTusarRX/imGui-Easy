@@ -43,7 +43,8 @@ This project integrates **ImGui (Dear ImGui)** with Android applications using J
 🔧 Code Example
 
 Here’s a basic example of an ImGui menu in C++ for Android:
-```#include "imgui.h"
+```
+#include "imgui.h"
 #include "imgui_impl_android.h"
 #include "imgui_impl_opengl3.h"
 #include <jni.h>
@@ -75,10 +76,7 @@ extern "C" void Java_com_example_modmenu_MainActivity_DrawMenu(JNIEnv *env, jobj
 
     ImGui::Render();
 }
-
-
-
-
+```
 
 
 
