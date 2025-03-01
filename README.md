@@ -28,9 +28,13 @@ This project integrates **ImGui (Dear ImGui)** with Android applications using J
 1. Clone this repository:
    ```bash
    git clone https://github.com/MrTusarRX/imGui-Easy.git
-```
+  bash```
+**
 
 
+
+
+-----------------------------------------------------------------------------------------------------------
    1. Set up your Android project in Android Studio.
    2. Include ImGui and OpenGL dependencies.
    3. Compile and run the app on an Android device or emulator.
